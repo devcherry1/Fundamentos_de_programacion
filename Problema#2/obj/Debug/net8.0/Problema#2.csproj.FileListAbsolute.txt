@@ -1,0 +1,14 @@
+D:\OneDrive - Universidad Nacional Abierta y a Distancia\2do semestre\Fundamentos de programacion\Paso2\213022B_1704_Paso2_JuanPabloGarcia\Problema#2\bin\Debug\net8.0\Problema#2.exe
+D:\OneDrive - Universidad Nacional Abierta y a Distancia\2do semestre\Fundamentos de programacion\Paso2\213022B_1704_Paso2_JuanPabloGarcia\Problema#2\bin\Debug\net8.0\Problema#2.deps.json
+D:\OneDrive - Universidad Nacional Abierta y a Distancia\2do semestre\Fundamentos de programacion\Paso2\213022B_1704_Paso2_JuanPabloGarcia\Problema#2\bin\Debug\net8.0\Problema#2.runtimeconfig.json
+D:\OneDrive - Universidad Nacional Abierta y a Distancia\2do semestre\Fundamentos de programacion\Paso2\213022B_1704_Paso2_JuanPabloGarcia\Problema#2\bin\Debug\net8.0\Problema#2.dll
+D:\OneDrive - Universidad Nacional Abierta y a Distancia\2do semestre\Fundamentos de programacion\Paso2\213022B_1704_Paso2_JuanPabloGarcia\Problema#2\bin\Debug\net8.0\Problema#2.pdb
+D:\OneDrive - Universidad Nacional Abierta y a Distancia\2do semestre\Fundamentos de programacion\Paso2\213022B_1704_Paso2_JuanPabloGarcia\Problema#2\obj\Debug\net8.0\Problema#2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Universidad Nacional Abierta y a Distancia\2do semestre\Fundamentos de programacion\Paso2\213022B_1704_Paso2_JuanPabloGarcia\Problema#2\obj\Debug\net8.0\Problema#2.AssemblyInfoInputs.cache
+D:\OneDrive - Universidad Nacional Abierta y a Distancia\2do semestre\Fundamentos de programacion\Paso2\213022B_1704_Paso2_JuanPabloGarcia\Problema#2\obj\Debug\net8.0\Problema#2.AssemblyInfo.cs
+D:\OneDrive - Universidad Nacional Abierta y a Distancia\2do semestre\Fundamentos de programacion\Paso2\213022B_1704_Paso2_JuanPabloGarcia\Problema#2\obj\Debug\net8.0\Problema#2.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universidad Nacional Abierta y a Distancia\2do semestre\Fundamentos de programacion\Paso2\213022B_1704_Paso2_JuanPabloGarcia\Problema#2\obj\Debug\net8.0\Problema#2.dll
+D:\OneDrive - Universidad Nacional Abierta y a Distancia\2do semestre\Fundamentos de programacion\Paso2\213022B_1704_Paso2_JuanPabloGarcia\Problema#2\obj\Debug\net8.0\refint\Problema#2.dll
+D:\OneDrive - Universidad Nacional Abierta y a Distancia\2do semestre\Fundamentos de programacion\Paso2\213022B_1704_Paso2_JuanPabloGarcia\Problema#2\obj\Debug\net8.0\Problema#2.pdb
+D:\OneDrive - Universidad Nacional Abierta y a Distancia\2do semestre\Fundamentos de programacion\Paso2\213022B_1704_Paso2_JuanPabloGarcia\Problema#2\obj\Debug\net8.0\Problema#2.genruntimeconfig.cache
+D:\OneDrive - Universidad Nacional Abierta y a Distancia\2do semestre\Fundamentos de programacion\Paso2\213022B_1704_Paso2_JuanPabloGarcia\Problema#2\obj\Debug\net8.0\ref\Problema#2.dll
