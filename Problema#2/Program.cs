@@ -44,7 +44,6 @@ class Program
     }
     static int SolicitarNumero(string mensaje) 
     /*Metodo para validar que el numero sea entero y que se encuentre entre 1 y 6 
-    porque los dados comunes solo tienen 6 caras :V
     Al final devolvera el valor al objeto jugador#.puntaje
     */
     {
