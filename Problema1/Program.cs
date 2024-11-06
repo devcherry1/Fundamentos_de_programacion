@@ -1,10 +1,3 @@
-﻿/*
-Nombre: Juan Pablo Garcia Carrillo
-Grupo: 213022_727
-Programa: Ingenieria de sistemas
-Codigo fuente: Autoria Propia
-*/
-
 using System;
 
 class Program
