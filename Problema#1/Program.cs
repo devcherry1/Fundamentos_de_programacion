@@ -1,13 +1,3 @@
-﻿/*
-Nombre: Juan Pablo Garcia Carrillo
-Grupo: 213022_727
-Problema Seleccionado: #1 Una universidad requiere analizar el proceso de matrícula para 
-el tercer período académico del 2020 de cada uno de los estudiantes.
-Programa: Ingenieria de sistemas
-Sede: José Acevedo y Gómez
-Codigo fuente: Autoria Propia
-*/
-
 using System;
 class Program
 {
